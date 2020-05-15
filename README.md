@@ -4,8 +4,8 @@ Modelo inicial de detector del uso de mascarillas, prontamente se agregara la ac
 
 Cambios no subidos:
 
-  *Cambio red neuronal*
+  *	Cambio red neuronal
   
-  *mejora reconocimiento caras*
+  *	mejora reconocimiento caras
 
 demostracion: https://www.linkedin.com/feed/update/urn:li:activity:6664293250179878912/
